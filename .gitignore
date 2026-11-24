@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+__pycache__/
+data/fremtpl2_*.csv
+results/*.rds
+renv/library/
